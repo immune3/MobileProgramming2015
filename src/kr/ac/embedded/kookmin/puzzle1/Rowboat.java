@@ -7,3 +7,4 @@ public class Rowboat extends Boat {
 	}
 	
 }
+

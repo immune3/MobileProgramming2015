@@ -6,3 +6,4 @@ public class Sailboat extends Boat{
 	}
 	
 }
+
