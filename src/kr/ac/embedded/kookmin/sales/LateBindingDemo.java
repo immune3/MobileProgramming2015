@@ -4,7 +4,7 @@ package kr.ac.embedded.kookmin.sales;
  * Demonstrates late binding.
  */
 public class LateBindingDemo {
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		Sale simple = new Sale("floor mat", 10.00);// One item at $10.00.
 		DiscountSale discount = new DiscountSale("floor mat", 11.00, 10);
 		// One item at $11.00 with a 10% discount.

@@ -67,4 +67,4 @@ public class DiscountSale extends Sale {
 	public DiscountSale clone() {
 		return new DiscountSale(this);
 	}
-}
+} 

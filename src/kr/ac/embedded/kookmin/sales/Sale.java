@@ -95,7 +95,7 @@ public class Sale {
 	public boolean lessThan(Sale otherSale) {
 		if (otherSale == null) {
 			System.out.println("Error: null Sale object.");
-			System.exit(0);
+			System.exit(0); 
 		}
 		// else
 		return (bill() < otherSale.bill());
